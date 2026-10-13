@@ -1,2 +1,2 @@
 # ADV-for-DS
-It's used for assignment and TP.
+It's used for submit assignment and TP.
